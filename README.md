@@ -7,3 +7,4 @@
 <img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-2F4F4F?style=for-the-badge&logo=python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-2F4F4F?style=social&logo=python&logoColor=#3776AB"/>
 flat (default), flat-square, plastic, for-the-badge, social
+![](https://www.codewars.com/users/Fractal-Developer/badges/large)
